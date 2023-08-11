@@ -1,0 +1,81 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buyutec{
+    opacity: 0.75;
+}
+
+.buyutec:hover{
+    opacity: 1;
+}
+
+.anasayfa{
+    opacity: 0.75;
+}
+
+.anasayfa:hover {
+    opacity: 1;
+}
+
+.bildirim {
+    opacity: 0.75;
+}
+
+.bildirim:hover {
+    opacity: 1;
+}
+
+.pp {
+    border-radius: 50px;
+    opacity: 0.95;
+}
+
+.pp:hover {
+    opacity: 1;
+}
+
+.username {
+    font-weight: bold;
+    color: black;
+}
+
+.username:hover {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.postbottom {
+    width: 100%;
+}
+
+.posticons {
+    opacity: 0.80;
+}
+
+.posticons:hover {
+    opacity: 1;
+}
+
+.savemark {
+    float:right;
+}
+
+.navicons {
+    margin-top: 33%;
+}
+
+.beyaz {
+    background-color: white;
+}
+
+.yukari-it {
+    margin-top:120px;
+}
